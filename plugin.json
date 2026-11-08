@@ -4,7 +4,7 @@
     "description": "Draws the TOTP setup QR code in the browser, so the secret never leaves your site",
     "license": "GPL-3.0-only",
     "author": [
-        "Yunyun"
+        "Yunyun (Wang Yaoze)"
     ],
     "requires": {
         "Nomen": ">=1.3.3"
@@ -16,5 +16,5 @@
         "Nomen\\Plugin\\TotpQr\\Plugin",
         "boot"
     ],
-    "homepage": "https://github.com/NomenID/plugin-totp-qr"
+    "homepage": "https://nomen.caellab.com/w/plugin-totp-qr"
 }
