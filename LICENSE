@@ -1,4 +1,4 @@
-Copyright (C) 2025-2026 Yunyun
+Copyright (C) 2025-2026 Yunyun (Wang Yaoze)
 
 This plugin carries its own QR encoder; it uses no third-party
 libraries and talks to no external service.
