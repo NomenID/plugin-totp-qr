@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "在瀏覽器裡本地繪製 TOTP 設定二維碼，密鑰不離開你的站點"
+}

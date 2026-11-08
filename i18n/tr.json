@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "TOTP kurulum QR kodunu tarayıcıda çizer; gizli anahtar sitenizden çıkmaz"
+}

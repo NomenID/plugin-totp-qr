@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "Малює QR-код для налаштування TOTP у браузері — секрет не залишає ваш сайт"
+}

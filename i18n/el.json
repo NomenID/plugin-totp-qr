@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "Σχεδιάζει τον κωδικό QR ρύθμισης TOTP στο πρόγραμμα περιήγησης, ώστε το μυστικό να μην φεύγει από τον ιστότοπό σας"
+}

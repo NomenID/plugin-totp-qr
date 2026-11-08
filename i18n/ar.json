@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "يرسم رمز QR لإعداد TOTP داخل المتصفح، فلا يغادر السر موقعك"
+}

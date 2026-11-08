@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "TOTP 設定用の QR コードをブラウザ内で描画します。シークレットがサイトの外に出ません"
+}

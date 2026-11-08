@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "วาดคิวอาร์โค้ดสำหรับตั้งค่า TOTP ในเบราว์เซอร์ ความลับจึงไม่ออกจากเว็บของคุณ"
+}

@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "TOTP 설정용 QR 코드를 브라우저에서 직접 그립니다. 시크릿이 사이트 밖으로 나가지 않습니다"
+}

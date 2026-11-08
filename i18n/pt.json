@@ -1,0 +1,3 @@
+{
+    "Draws the TOTP setup QR code in the browser, so the secret never leaves your site": "Desenha o código QR de configuração do TOTP no navegador: o segredo nunca sai do seu site"
+}
