@@ -16,5 +16,5 @@
         "Nomen\\Plugin\\TotpQr\\Plugin",
         "boot"
     ],
-    "homepage": "https://nomen.caellab.com/w/plugin-totp-qr"
+    "homepage": "https://nomenid.org/w/plugin-totp-qr"
 }

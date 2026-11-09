@@ -4,7 +4,7 @@
  * Licensed under the GNU General Public License, version 3 only, with
  * additional attribution terms in the NOTICE file.
  * Source: https://github.com/NomenID/plugin-totp-qr
- * Project: https://nomen.caellab.com/w/plugin-totp-qr
+ * Project: https://nomenid.org/w/plugin-totp-qr
  */
 
 namespace Nomen\Plugin\TotpQr;
