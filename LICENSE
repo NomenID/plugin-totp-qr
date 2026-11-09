@@ -1,5 +1,8 @@
 Copyright (C) 2025-2026 Yunyun (Wang Yaoze)
 
+This plugin is licensed under the GNU General Public License, version 3 only
+(not any later version).
+
 This plugin carries its own QR encoder; it uses no third-party
 libraries and talks to no external service.
 
