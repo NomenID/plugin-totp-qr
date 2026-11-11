@@ -2,7 +2,7 @@
 
 设置两步验证时，二维码在浏览器里本地画出来，密钥不经过任何第三方服务。
 
-TOTP QR Code 是独立项目，不属于 Nomen 本体，按 GPLv3 单独发布：
+TOTP QR Code 是独立项目，不属于 Nomen 本体，按 Apache-2.0 单独发布：
 <https://github.com/NomenID/plugin-totp-qr>。
 
 ## 为什么要有它
@@ -24,4 +24,4 @@ Nomen 1.3.3 以前，设置页把 `otpauth://` 地址拼成第三方二维码接
 
 ## 许可
 
-GPLv3，见 [LICENSE](LICENSE)。
+Apache-2.0，见 [LICENSE](LICENSE)。

@@ -1,8 +1,8 @@
 {
     "name": "TOTP QR Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Draws the TOTP setup QR code in the browser, so the secret never leaves your site",
-    "license": "GPL-3.0-only",
+    "license": "Apache-2.0",
     "author": [
         "Yunyun (Wang Yaoze)"
     ],
